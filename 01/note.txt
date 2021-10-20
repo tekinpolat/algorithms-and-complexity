@@ -1,0 +1,33 @@
+# https://web.ogu.edu.tr/Storage/egulbandilar/Uploads/AlgoritmaAnalizi.pdf
+# https://birhankarahasan.com/algoritma-analizi-nedir-zaman-karmasikligi-big-o-gosterimi
+# http://ibrahimkarahasan.blogspot.com/2016/05/algoritma-analizi-nedir.html
+# https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+
+# Measuring code performance
+
+
+# Algorithms and Complexity
+-- Amaç : Yazdığımız kodu karşılaştırmak
+          Yazdığımız kodun kalitesine bakıyorum
+
+-- Aynı işi yapan 2 kod parçacığını karşılaştırıyoruz
+    - Time Complexity (Zaman kompleksi)
+    - Space Complexity (Alan kompleksi)  => (RAM ne kadar kullanılacağı)
+
+
+--Değişkenler RAM yer kaplar
+
+
+
+-- RAM yönetmek OS(İşletim Sistemi) görevi
+-- Disk yönetmek OS görevi
+
+
+- O – En kötü durum analizi
+- Θ – Ortalama durum analizi
+- Ω - En iyi durum analizi      Theta
+
+- worst case
+
+
+- sorting algoritmaları
